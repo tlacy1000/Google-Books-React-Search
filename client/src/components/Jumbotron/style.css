@@ -1,0 +1,11 @@
+.jumbotron {
+  padding: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: lightgoldenrodyellow;
+  border-bottom: 8px solid purple;
+  border-top: 8px solid purple;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+  color: purplered;
+}
